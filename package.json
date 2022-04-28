@@ -25,10 +25,10 @@
     "bluebird": "^3.4.1",
     "mongodb": "^2.2.33",
     "mqtt": "^1.12.0",
-    "pomelo": "topfreegames/pomelo#2.2.3-tracing",
     "redis": "^2.6.2"
   },
   "devDependencies": {
+    "pomelo": "topfreegames/pomelo#2.2.3-tracing",
     "blanket": "^1.2.3",
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
